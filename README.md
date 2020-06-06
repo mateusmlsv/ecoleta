@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+![GitHub issues][github_issues_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
@@ -79,9 +79,7 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 <!-- Badges -->
 
-[github_issues_badge]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
-
-[repository_license_badge]: https://img.shields.io/github/license/x0n4d0/ecoleta
+[github_issues_badge]: https://img.shields.io/github/issues/mateusmlsv/ecoleta?color=green
 
 [node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
 
@@ -114,10 +112,6 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [stackedit]: https://stackedit.io
 
 [vscode_sqlite_extension]: https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
-
-[markdown_emoji]: https://gist.github.com/rxaviers/7360908
-
-[commitlint]: https://github.com/conventional-changelog/commitlint
 
 [express]: https://expressjs.com/
 
